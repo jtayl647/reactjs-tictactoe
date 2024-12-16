@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Status from './components/status';
-import Board from './components/board';
+import Status from './components/Status';
+import Board from './components/Board';
 import Confetti from 'react-confetti'; // Import confetti
 import './index.css';
 
